@@ -1,0 +1,164 @@
+body{
+    margin-top: 70px;
+    font-size: 16px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: Poppins;
+}
+
+p{
+    font-family: Roboto;
+}
+
+.navbar-default {
+    background: #fff;
+    border: 0;
+    font-family: Poppins;
+}
+
+.navbar-brand {
+    font-size: 20px;
+    color: #000 !important;
+    font-weight: bold;
+}
+
+#showcase{
+    margin-bottom: 80px;
+}
+
+#showcase h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+#showcase img{
+    width: 90%;
+    margin-left: -15px;
+    margin-top: -11px;
+}
+
+#showcase .showcase-right{
+    margin-top: 90px;
+}
+
+#testimonial{
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+}
+
+#testimonial p{
+    font-size: 20px;
+    font-family: "Josefin sans";
+    color: #000;
+}
+
+#testimonial p.customer{
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #666;
+}
+
+#features{
+    margin-bottom: 70px;
+}
+
+#features img{
+    width: 90%;
+    margin-top: 90px;
+}
+
+#features .features-right{
+    margin-top: 90px;
+}
+
+#features .features-right h2{
+    margin-bottom: 25px;
+}
+
+#features .features-right ul {
+    list-style-type: circle;
+}
+
+#features .features-right ul li{
+    line-height: 4rem;
+    color: #a1a1a1;   
+}
+
+.text-image{
+    background-image:url(../images/image7.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 150px 0 150px 0;
+    color: #fff; 
+    height: 100vh;  
+}
+
+.text-image .sub-text{
+    width: 50%;
+    float: right;
+    text-align:center;
+}
+
+.text-image h2{
+    font-size: 30px;
+    font-weight: 100;
+    margin-left: 18px;
+    line-height: 1.3;
+}
+
+.text-image .container{
+    margin-top: 50px;
+}
+
+#flipkart{
+    margin-top: 100px;
+}
+
+#flipkart h2{
+    font-size: 40px;
+}
+
+#flipkart .android{
+    color: #666;
+}
+
+#flipkart .order{
+    font-weight: 300;
+    font-size: 20px;
+}
+
+#flipkart .flipkart-img{
+    width: 50%;
+}
+
+#flipkart .google-price{
+    font-size: 28px;
+    color: #666;
+}
+
+#flipkart .phone-image{
+    width: 90%;
+}
+
+#contact{
+    background-color: #f1f1f1;
+    margin-top: 20px;
+}
+
+#contact h2{
+    text-align: center;
+    margin-top: 40px;
+}
+
+#contact form{
+    margin-top: 70px;
+}
+
+footer{
+    padding: 30px;
+    background-color: #fff;
+}
+
